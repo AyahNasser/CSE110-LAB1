@@ -30,6 +30,11 @@ Despite this, I do not regret doing computer engineering at UCSD since it has ta
 
 
 
+#### Go to
+- [More about me](#More-About-Me)
+- [Interests](#Interests)
+- [Programming languages and Tools](#Programming-languages-and-Tools)
+
 
 
 
