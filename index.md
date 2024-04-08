@@ -1,7 +1,12 @@
-# Picture
 
-# Introduction 
+# Introduction <img src="IMG_7168.jpg" align="left" width="140">
 *My name is Ayah Aldawsari, and I am an international student from Saudi Arabia. I am in my fourth year at UCSD majoring in Computer Engineering.* 
+
+
+
+
+
+
 
 ## More About Me
 - *I am a self-learner: my first language is Arabic, but I have taught myself English, and I am currently learning Turkish! I also taught myself how to play the piano!*
