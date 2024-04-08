@@ -5,7 +5,7 @@
 
 ## More About Me
 - *I am a self-learner: my first language is Arabic, but I have taught myself English, and I am currently learning Turkish! I also taught myself how to play the piano!*
-- *I like staying active and engaging in sports as much as I can. I play tennis, and volleyball, and I ski! **I learned all these sports 4 years ago when I came to the US!***
+- *I like staying active and engaging in sports as much as I can. I play tennis, and volleyball, and I ski!. Click on this link to see my favorite place to ski, [palisades tahoe](https://www.palisadestahoe.com/) **I learned all these sports 4 years ago when I came to the US!***
 - *I like a balanced life and as my brother always tells me*
 > "The right thing is between two wrongs."- My older brother.
 - Favorite animal
@@ -31,9 +31,11 @@ Despite this, I do not regret doing computer engineering at UCSD since it has ta
 
 
 #### Go to
+- [Introduction](#Introduction)
 - [More about me](#More-About-Me)
 - [Interests](#Interests)
 - [Programming languages and Tools](#Programming-languages-and-Tools)
+
 
 
 
