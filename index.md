@@ -28,6 +28,11 @@ Despite this, I do not regret doing computer engineering at UCSD since it has ta
 9. Quartus
 10. Questa
 
+*A git command I recently learned is deleting multiple files!*
+```python
+    git rm (file1) (file2)..
+```
+
 
 
 #### Go to
